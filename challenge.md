@@ -1,4 +1,4 @@
-# ModeStreet back-end challenge
+# Clevered back-end challenge
 
 Challenge is to build a product add, edit, delete, view and list/search api's.
 

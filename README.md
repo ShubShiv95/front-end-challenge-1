@@ -1,6 +1,6 @@
-# `ModeStreet back-end challenge` 
+# `Clevered back-end challenge` 
 
-This is our challenge for the back-end developer position at [@modestreet](https://github.com/ModeStreet).
+This is our challenge for the back-end developer position at [@clevered](https://github.com/akashsky44).
 
 You're probably already participating in our hiring process, but if you stumble here by accident, read the document to the end and if you are interested, you can start the process from here.
 
@@ -34,5 +34,5 @@ What we expect that you learn from us:
 
 ## Doubts?
 
-Do you have in doubt related to the process? Open an [issue](https://github.com/ModeStreet/front-end-challenge-1/issues) and we'll be happy to help.
+Do you have in doubt related to the process? Open an [issue](https://github.com/akashsky44/front-end-challenge-1/issues) and we'll be happy to help.
 
