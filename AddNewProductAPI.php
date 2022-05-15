@@ -1,6 +1,6 @@
 <?php
 include './dbhandle.php';
-//http://localhost/chall/front-end-challenge-1/AddNewProductAPI.php?product=entry&Product_Name=Laptop&Price=10000&Available_Size=1 pc&Category=Electronic&image
+//http://localhost/product/front-end-challenge-1/AddNewProductAPI.php?product=entry&Product_Name=Laptop&Price=10000&Available_Size=1 pc&Category=Electronic&image
 
 if (isset($_REQUEST['product'])) {
     if ($_REQUEST['product'] == 'entry') {

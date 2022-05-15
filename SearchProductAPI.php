@@ -2,8 +2,8 @@
 include './dbhandle.php';
     if ($_REQUEST['product'] == "productsearch") {
 
-        /* http://localhost/chall/front-end-challenge-1/SearchProductAPI.php?product=productsearch&search_by=product_name&searchkey=s
-           http://localhost/chall/front-end-challenge-1/SearchProductAPI.php?product=productsearch&search_by=category&searchkey=g
+        /* http://localhost/product/front-end-challenge-1/SearchProductAPI.php?product=productsearch&search_by=product_name&searchkey=s
+           http://localhost/product/front-end-challenge-1/SearchProductAPI.php?product=productsearch&search_by=category&searchkey=g
             */
 
         $search = "%" . $_REQUEST['searchkey'] . "%";

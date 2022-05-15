@@ -1,5 +1,5 @@
 <?php
-//http://localhost/chall/front-end-challenge-1/ViewProductAPI.php?product=view
+//http://localhost/product/front-end-challenge-1/ViewProductAPI.php?product=view
 include_once './dbhandle.php';
 if (isset($_REQUEST['product'])) {
     if ($_REQUEST['product'] == 'view') {    
