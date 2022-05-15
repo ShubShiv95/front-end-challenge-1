@@ -1,0 +1,17 @@
+Documentation For Software Use.
+1. Install xampp in system.
+2. Create Database name Product. 
+3. Create USername-> "admin_product" and password -> "admin_product@2022" in your database so that the connection file named Dbhandle.php will make a connection to it.
+4. Import the table which i am attaching.
+After Succesful Importing Just copy and paste the url to use the api.
+
+ 1. To add new product ->//http://localhost/chall/front-end-challenge-1/AddNewProductAPI.php?product=entry&Product_Name=Laptop&Price=10000&Available_Size=1 pc&Category=Electronic&image
+
+ 2. To Edit/update a product - >http://localhost/chall/front-end-challenge-1/EditProductDetails.php?product=update&product_id=2&Product_Name=Cinthol&Price=20&Available_Size=2 pcs&Category=Bathroom&image
+
+ 3. To search all products - >http://localhost/chall/front-end-challenge-1/ViewProductAPI.php?product=view
+
+ 4. To search Product by name ->http://localhost/chall/front-end-challenge-1/SearchProductAPI.php?product=productsearch&search_by=product_name&searchkey=l
+
+ 5. To Search Product by category - >http://localhost/chall/front-end-challenge-1/SearchProductAPI.php?product=productsearch&search_by=category&searchkey=bathroom
+
